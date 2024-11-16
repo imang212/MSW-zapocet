@@ -1,1 +1,1 @@
-I used here numerical python modules for graphs create. With Numpy, Scipy, Pandas, Matplotlib library and more.
+I used numerical python modules for graphs create. Worked with Numpy, Scipy functions, Pandas, Matplotlib, math and time.
